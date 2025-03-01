@@ -7,13 +7,13 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thiago-s-leite-br/">
+<!--<a href="https://www.linkedin.com/in/thiago-s-leite-br/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<!-- <a href="/">
+</a>-->
+<a href="https://www.linkedin.com/in/thiago-s-leite-br/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="/">
+<!--<a href="/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
 <a href="/">
